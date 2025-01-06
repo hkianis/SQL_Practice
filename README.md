@@ -1,7 +1,5 @@
 # SQL Practice
 
-[toc]
-
 ## Introduction
 
 This repository documents my SQL learning journey. It contains practical queries and projects categorized into:
